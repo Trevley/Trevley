@@ -10,6 +10,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevley&layout=compact&theme=radical)
 
+![Matrix Tech'sContribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Trevley&theme=radical)
+
+
+
+
+Welcome to my GitHub profile! I'm a passionate *web developer*, *open-source contributor*, and *tech enthusiast*. I love building projects that solve real-world problems. Feel free to explore my repositories and get in touch with me!
+
+About Me:
+- 🔭 I’m currently working on *AwesomeProject*.
+- 🌱 I’m learning *Machine Learning* and *TypeScript*.
+- 👯 I’m looking to collaborate on *React* and *Node.js* projects.
+- 💬 Ask me about *JavaScript*, *React*, *Node.js*, and *Web Development*.
+
+- ⚡ Fun fact: I love gaming and building things in my free time
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram)](https://www.instagram.com/lil_trev._) 
 
