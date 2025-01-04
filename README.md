@@ -10,7 +10,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevley&layout=compact&theme=radical)
 
-![Matrix Tech'sContribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Trevley&theme=radical)
+![Matrix Tech'sContribution Graph](https://github-readme-activity-graph.cyclic.app/graphusername=Trevley&theme=radical)
 
 
 
