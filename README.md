@@ -1,7 +1,7 @@
 
 
 [![matrix tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+profile;I+am+MATRIX+TECH+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+😊+💕;you+can+always+reach+out+for+collaboration=on=projects+Contact=me+through+the+platforms=displayed=below)](https://github.com/Trevley)
-<img src="https://files.catbox.moe/z7aq15.jpg" width="250" height="250"/>
+<img src="https://files.catbox.moe/z7aq15.jpg" width="200" height="300"/>
 
 
 ![Matrix Tech stats](https://github-readme-stats.vercel.app/api?username=Trevley&show_icons=true&count_private=true&hide_title=true&theme=radical)
