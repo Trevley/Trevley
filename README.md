@@ -6,6 +6,10 @@
 
 ![Matrix Tech stats](https://github-readme-stats.vercel.app/api?username=Trevley&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trevley&theme=radical)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevley&layout=compact&theme=radical)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram)](https://www.instagram.com/lil_trev._) 
 
