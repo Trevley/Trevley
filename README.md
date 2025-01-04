@@ -12,7 +12,7 @@
 
 <a href="mailto:matrixtechno2@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 
-
+[![Twitter](https://img.shields.io/badge/Twitter-@lil_trev__-blue?style=flat-square&logo=twitter)](https://twitter.com/lil_trev__)
 
 
 
