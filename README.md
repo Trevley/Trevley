@@ -4,7 +4,7 @@
 <img src="https://files.catbox.moe/z7aq15.jpg" width="250" height="250"/>
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Matrix Tech stats](https://github-readme-stats.vercel.app/api?username=Trevley&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=Instagram)](https://www.instagram.com/lil_trev._) 
